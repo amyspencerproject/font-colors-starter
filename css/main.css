@@ -23,11 +23,12 @@ p {
   color: #ff8641;
 }
 
-#wrapper {
+/*#wrapper {
   width: 100%;
   min-width: 960px;
   margin: auto;
 }
+*/
 
 @media (min-width: 768px) {
   h1 {
